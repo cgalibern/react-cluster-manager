@@ -57,7 +57,7 @@
     "typeface-roboto": "1.1.13",
     "url-loader": "^2.3.0",
     "webpack": "^4.44.2",
-    "webpack-cli": "^3.3.12"
+    "webpack-cli": "^4.8.0"
   },
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.12.10"
