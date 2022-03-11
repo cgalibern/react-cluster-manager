@@ -8,4 +8,3 @@ when installed in:
 
 * Agent installation from source:
   /opt/opensvc/usr/share/html/
-
